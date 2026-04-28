@@ -8,16 +8,16 @@ sou apaixonada por transformar lógica em soluções estruturadas e eficientes. 
 
 ### 🌸 sobre mim
 
-* 💻 dedicada ao ecossistema **java** e **spring framework**.
-* ☁️ interessada em arquitetura de microsserviços e apis rest.
-* 🌱 constantemente estudando docker, bancos de dados e testes automatizados.
-* ✨ acredito que a tecnologia e a criatividade andam juntas.
+* 💻 dedicada ao ecossistema **java** e **spring framework**
+* ☁️ interessada em arquitetura de microsserviços e apis rest
+* 🌱 constantemente estudando docker, bancos de dados e testes automatizados
+* ✨ acredito que a tecnologia e a criatividade andam juntas
 
 ---
 
 ### 🛠️ stack & ferramentas
 
-* **linguagens:** java
+* **linguagens:** java (principal), c++, go
 * **frameworks:** spring boot, spring data jpa, spring security
 * **banco de dados:** mysql, postgresql
 * **devops & ferramentas:** docker, maven, git
