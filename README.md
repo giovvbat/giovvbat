@@ -31,4 +31,4 @@ sou apaixonada por transformar lógica em soluções estruturadas e eficientes. 
 
 ---
 
-todo grande sonho começa com uma linha de código. ✨
+todo grande sonho começa com uma linha de código ✨
